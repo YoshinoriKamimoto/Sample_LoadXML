@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pokemons>
+    <pokemon>
+        <name>ゼニガメ</name>
+        <type>みず</type>
+        <lv>5</lv>
+    </pokemon>
+    <pokemon>
+        <name>フシギダネ</name>
+        <type>くさ</type>
+        <lv>7</lv>
+    </pokemon>
+    <pokemon>
+        <name>ヒトカゲ</name>
+        <type>ほのお</type>
+        <lv>10</lv>
+    </pokemon>
+</pokemons>
